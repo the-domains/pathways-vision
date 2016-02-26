@@ -1,0 +1,28 @@
+name: Pathways Vision
+favicon: null
+layout_spectrum: 0.3511501532047987
+typography_spectrum: 0.5434165890328586
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#010101'
+    - '#eaeaea'
+    - '#454545'
+    - '#9f9f9f'
+    - '#222222'
+  brandStrength: 0.8517628721892834
+  lightness: 0.37777731847018003
+  saturation: 0.3584339946974069
+  rhythmicContrast: 0.6776428164448589
+purpose: []
